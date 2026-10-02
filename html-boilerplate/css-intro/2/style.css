@@ -10,7 +10,7 @@ p {
 }
 
 #b {
-    color: lightgreen;
+    background-color: lightgreen;
     font-weight: bold;
     font-size: 24px;
 }
