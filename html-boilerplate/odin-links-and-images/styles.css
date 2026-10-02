@@ -14,3 +14,8 @@ li {
 .alerta {
     color: blueviolet;
 }
+
+a {
+    color: darkgoldenrod;
+    background-color: aquamarine;
+}
