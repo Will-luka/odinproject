@@ -1,5 +1,6 @@
 h1 {
     color: red;
+    background-color: blanchedalmond;
 }
 
 h2 {
@@ -8,4 +9,8 @@ h2 {
 
 li {
     color: yellow;
+}
+
+.alerta {
+    color: blueviolet;
 }
