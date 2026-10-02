@@ -19,10 +19,3 @@ a {
     color: darkgoldenrod;
     background-color: aquamarine;
 }
-
-.caveat {
-  font-family: "Caveat", cursive;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-}
