@@ -5,22 +5,22 @@ body {
 .para,
 .small-para {
   color: hsl(0, 0%, 0%);
-  font-weight: 800;
-  width: bold;
+  font-weight: 900;
+  width: bolder;
 }
 
-.small-para {
+.para.small-para {
   font-size: 14px;
-  font-weight: 800;
-  width: bold;
+  font-weight: 900;
+  width: bolder;
 }
 
 .para {
   font-size: 22px;
-  width: bold;
+  width: bolder;
 }
 
-.confirm {
+.confirm.button {
   background: green;
   color: white;
   font-weight: bold;
@@ -32,9 +32,9 @@ body {
   font-size: 20px;
 }
 
-.child {
+div.text.child {
   color: rgb(0, 0, 0);
-  font-weight: 800;
+  font-weight: 900;
   font-size: 14px;
 }
 
