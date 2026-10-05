@@ -13,6 +13,7 @@ li {
 
 .alerta {
     color: blueviolet;
+    border: 4px red;
 }
 
 a {
