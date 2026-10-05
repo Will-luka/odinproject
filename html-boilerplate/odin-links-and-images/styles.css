@@ -14,6 +14,7 @@ li {
 .alerta {
     color: blueviolet;
     border: 4px red;
+    margin: 5px red;
 }
 
 a {
