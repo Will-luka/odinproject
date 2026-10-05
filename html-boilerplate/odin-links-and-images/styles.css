@@ -15,6 +15,7 @@ li {
     color: blueviolet;
     border: 4px red;
     margin: 5px red;
+    padding: 5px;
 }
 
 a {
